@@ -1,0 +1,5 @@
+blue vcc 5v
+purple gnd gnd
+grey din gpio17
+white cs gpio27
+black clk gpio22
