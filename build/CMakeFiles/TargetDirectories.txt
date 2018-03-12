@@ -1,7 +1,0 @@
-/home/marc/Documents/PiPageCounter/ledMatrix/build/CMakeFiles/install/strip.dir
-/home/marc/Documents/PiPageCounter/ledMatrix/build/CMakeFiles/install/local.dir
-/home/marc/Documents/PiPageCounter/ledMatrix/build/CMakeFiles/led.dir
-/home/marc/Documents/PiPageCounter/ledMatrix/build/CMakeFiles/edit_cache.dir
-/home/marc/Documents/PiPageCounter/ledMatrix/build/CMakeFiles/rebuild_cache.dir
-/home/marc/Documents/PiPageCounter/ledMatrix/build/CMakeFiles/install.dir
-/home/marc/Documents/PiPageCounter/ledMatrix/build/CMakeFiles/list_install_components.dir
